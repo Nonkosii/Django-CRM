@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'dcrm',
         'USER': 'postgres',
-        'PASSWORD': '$$Dut010107',
+        'PASSWORD': '******',
         'HOST': 'localhost',
         'PORT': '5432',
     }
